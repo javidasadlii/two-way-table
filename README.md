@@ -5,9 +5,9 @@ Bunu misalla izah edəsi olsaq, Qadınlar və kişilərin hər birinin maşını
        
        Var    Yox 
        
-Kişi   10     15
+Kişi    10      15
 
-Qadın   5     23 
+Qadın    5      23 
 
 Yuxarda göstərdiyimiz nümunə isə kategorik dəyişənlərin göstərilməsi və təşkil olunması üçün ən çox istifadə olunan və bilinən yolldur. Hansıkı, bu two-way table(iki tərəfli cədvəl) adlanır.
 İki tərəfli cədvəl katekorik dəyişənlərin hər kombinasiyasının neçə dəfə baş verdiyini göstərir. Məsələn Maşını olan qadınların sayı cədvəldə rahatlıqla görə bilərik ki, 5-dir.
