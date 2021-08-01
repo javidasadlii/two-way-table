@@ -2,6 +2,7 @@
 Biz müəyyən dataları əldə etdikdən sonra onları lazımı nüansları görə biləcək şəkildə təşkil edib göstərməliyik.
 Əsasən bu halda kategorik(categorical) dəyişənlərin bizim əldə etdiyimiz datalarda nə qədər baş verdiyini bilmək istəyirik.
 Bunu misalla izah edəsi olsaq, Qadınlar və kişilərin hər birinin maşının olub olmamasını muqayisə edərək, onların faizlərini və bir birindən  nə qədər fərqləndiyini tapa bilərik. 
+       
        Var    Yox 
 Kişi   10     15
 Qadın   5     23 
